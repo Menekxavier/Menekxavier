@@ -8,9 +8,7 @@
 
 💼 I'm open to collaboration on projects related to data science, AI, and machine learning. Feel free to reach out to me for exciting opportunities or just to chat about anything data-related!
 
-📫 You can connect with me on [LinkedIn](Your LinkedIn Profile URL) or [Twitter](Your Twitter Profile URL).
-
-Let's innovate and create impactful solutions together! 🚀
+📫 You can connect with me on LinkedIn: www.linkedin.com/in/ekemini-inieke-351ab619a, email: ekeminiinieke@gmail.com or Twitter: @kemniaustin11. 🚀
 
 <!---
 Menekxavier/Menekxavier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
